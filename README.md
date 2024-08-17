@@ -1,7 +1,10 @@
 # Learning SQL Programming
 This is the repository for the LinkedIn Learning course Learning SQL Programming. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![Learning SQL Programming][lil-thumbnail-url] 
+![Learning SQL Programming][lil-thumbnail-url]
+
+Updated: 20 December 2023
+
 Structured Query Language (SQL) is a common tool for retrieving data from relational databases such as SQL Server, MySQL, MariaDB, and PostgreSQL. This course provides an introduction to this core programming language. Learn how to request data from a database, limit and sort the responses, aggregate data from multiple tables with joins, and edit and delete data. Instructor Scott Simpson also shows how to perform simple math operations and transform data into different formats.
 
 ## Learning objectives
